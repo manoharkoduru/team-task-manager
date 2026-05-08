@@ -1,0 +1,5 @@
+backend/env/ 
+backend/db.sqlite3 
+frontend-new/node_modules/ 
+__pycache__/ 
+.env 
