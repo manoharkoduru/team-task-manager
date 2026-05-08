@@ -10,3 +10,22 @@ MVP features:
 Deploy:
 Backend -> Railway
 Frontend -> Vercel
+
+
+
+Team Task Manager
+
+Tech Stack:
+- Django REST Framework
+- React.js
+- PostgreSQL
+- JWT Auth
+- Render
+- Vercel
+
+Features:
+- User Authentication
+- Role Based Access
+- Project Management
+- Task Assignment
+- Dashboard Analytics
